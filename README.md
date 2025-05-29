@@ -1,0 +1,1 @@
+[Diagrama BD](https://drawsql.app/teams/senati-16/diagrams/aprende-peru)
